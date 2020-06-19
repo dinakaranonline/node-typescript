@@ -1,2 +1,0 @@
-# node-typescript
-Node typescript
